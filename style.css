@@ -47,7 +47,7 @@ body {
         margin: 0 auto 0 auto;
     }
     .paragraph {
-        color: var(--Light_Gray);
+        color: var(--Grayish_Blue);
         padding: 1rem;
         font-size: 15px;
         font-weight: 400;
